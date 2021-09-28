@@ -1,0 +1,5 @@
+/Users/guidoleen/Projects/InvoiceService/ClientListenerLibrary/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/guidoleen/Projects/InvoiceService/ClientListenerLibrary/bin/Debug/ClientListenerLibrary.dll.mdb
+/Users/guidoleen/Projects/InvoiceService/ClientListenerLibrary/bin/Debug/ClientListenerLibrary.dll
+/Users/guidoleen/Projects/InvoiceService/ClientListenerLibrary/obj/Debug/ClientListenerLibrary.dll
+/Users/guidoleen/Projects/InvoiceService/ClientListenerLibrary/obj/Debug/ClientListenerLibrary.dll.mdb

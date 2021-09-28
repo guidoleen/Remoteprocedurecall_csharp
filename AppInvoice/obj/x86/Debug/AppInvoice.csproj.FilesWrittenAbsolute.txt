@@ -1,0 +1,7 @@
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/bin/Debug/AppInvoice.exe.mdb
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/bin/Debug/AppInvoice.exe
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/obj/x86/Debug/AppInvoice.exe
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/obj/x86/Debug/AppInvoice.exe.mdb
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/bin/Debug/ClientListenerLibrary.dll
+/Users/guidoleen/Projects/InvoiceService/AppInvoice/bin/Debug/ClientListenerLibrary.dll.mdb

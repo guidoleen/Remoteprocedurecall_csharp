@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="AppInvoice/AppInvoice.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientListenerLibrary/ClientSocket.cs">
+    <Files>
+      <File FileName="ClientListenerLibrary/ClientListenerService.cs" Line="19" Column="41" />
+      <File FileName="ClientListenerLibrary/ServerSocket.cs" Line="18" Column="3" />
+      <File FileName="ClientListenerLibrary/ClientSocket.cs" Line="17" Column="5" />
+      <File FileName="ClientListenerLibrary/ConnectionSocket.cs" Line="10" Column="3" />
+      <File FileName="ClientListenerLibrary/ClientListenerSocket.cs" Line="5" Column="2" />
+      <File FileName="InvoiceService/Program.cs" Line="12" Column="47" />
+      <File FileName="AppInvoice/Program.cs" Line="18" Column="1" />
+      <File FileName="ClientListenerLibrary/IDbAccessService.cs" Line="1" Column="1" />
+      <File FileName="ClientListenerLibrary/Helpers/ObjectSerializerDeserializer.cs" Line="1" Column="1" />
+      <File FileName="ClientListenerLibrary/IServerActionHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InvoiceService" expanded="True">
+            <Node name="AppInvoice" expanded="True" />
+            <Node name="ClientListenerLibrary" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="ClientSocket.cs" selected="True" />
+            </Node>
+            <Node name="InvoiceService" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
